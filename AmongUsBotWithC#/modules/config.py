@@ -16,11 +16,10 @@ chrome_driver_path = "./chromedriver.exe"
 # To get this key go to https://discord.com/developers/applications/
 # Click on bot
 # Copy token
-discord_bot_token = "NzU0MTc4NzcyOTIzNTgwNDI3.X1w9tw.OgQNOZR539utGCY6Zk_CyxowILc"
-discord_channel = "https://discord.com/channels/754154424863031327/754211093538144326"
-discord_owner_id = 282205924804788224
+discord_bot_token = "bot_token"
+discord_owner_id = 0
 
-screen_resolution = "2560x1080"
+screen_resolution = "1920x1080"
 
 adjust_x = 0 # Adjust height of first grab (This grabs keywords for 'defeat', 'victory', 'imposter', 'crewmate')
 adjust_y = -10
