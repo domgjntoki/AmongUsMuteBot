@@ -140,7 +140,7 @@ namespace AmongUsCapture
 
                 // Writes game data to file, for the discord bot to read
                 var json = JsonConvert.SerializeObject(data);
-                System.IO.File.WriteAllText(@"F:\Desktop\Projetos\AmongUs\among.json", json);
+                System.IO.File.WriteAllText(@"exports\among.json", json);
                 Thread.Sleep(250);
             }
         }
