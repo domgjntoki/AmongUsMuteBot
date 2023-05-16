@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBPNBvn+rSqHpUj1aU3E7+kY8qmTSGv2sdsM+dlH0f3WiuibFns3DESCfC+wsj1VtsHgvVC5BRBMo3F/EvKE5Q==",
+  "success": true,
+  "projectFilePath": "F:\\Desktop\\Projetos\\AmongUs\\AmongUsCapture\\AmongUsCapture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domgi\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
+    "C:\\Users\\domgi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

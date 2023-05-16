@@ -1,0 +1,16 @@
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\AmongUsCapture.exe
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\AmongUsCapture.deps.json
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\AmongUsCapture.runtimeconfig.json
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\AmongUsCapture.runtimeconfig.dev.json
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\AmongUsCapture.dll
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\AmongUsCapture.pdb
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.csprojAssemblyReference.cache
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.AssemblyInfoInputs.cache
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.AssemblyInfo.cs
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.dll
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.pdb
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.genruntimeconfig.cache
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\Json.Net.dll
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.csproj.CopyComplete
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Desktop\Projetos\AmongUs\AmongUsCapture\obj\Debug\netcoreapp3.1\AmongUsCapture.csproj.CoreCompileInputs.cache
